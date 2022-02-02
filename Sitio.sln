@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sitio", "Sitio\Sitio.csproj", "{103FA2BD-37B3-48DE-9CDA-750EE3860DDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sitio.Tests", "Sitio.Tests\Sitio.Tests.csproj", "{95F9C9D1-6DA2-4FFA-880D-BE2639AF5BFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{103FA2BD-37B3-48DE-9CDA-750EE3860DDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{103FA2BD-37B3-48DE-9CDA-750EE3860DDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{103FA2BD-37B3-48DE-9CDA-750EE3860DDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{103FA2BD-37B3-48DE-9CDA-750EE3860DDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95F9C9D1-6DA2-4FFA-880D-BE2639AF5BFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95F9C9D1-6DA2-4FFA-880D-BE2639AF5BFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95F9C9D1-6DA2-4FFA-880D-BE2639AF5BFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95F9C9D1-6DA2-4FFA-880D-BE2639AF5BFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
